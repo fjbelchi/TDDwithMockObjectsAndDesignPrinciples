@@ -2,7 +2,7 @@
 //  TextConverter.h
 //  TextConverter
 //
-//  Created by Fran_DEV on 16/09/14.
+//  Created by fjbelchi on 16/09/14.
 //  Copyright (c) 2014 Francisco Jose Belchi Martinez. All rights reserved.
 //
 

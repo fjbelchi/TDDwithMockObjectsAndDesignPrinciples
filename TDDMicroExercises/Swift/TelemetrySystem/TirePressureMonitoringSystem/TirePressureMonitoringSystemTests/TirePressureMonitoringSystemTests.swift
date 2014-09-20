@@ -1,15 +1,15 @@
 //
-//  TextConverterTests.swift
-//  TextConverterTests
+//  TirePressureMonitoringSystemTests.swift
+//  TirePressureMonitoringSystemTests
 //
-//  Created by fjbelchi on 16/09/14.
+//  Created by Fran_DEV on 20/09/14.
 //  Copyright (c) 2014 Francisco Jose Belchi Martinez. All rights reserved.
 //
 
 import UIKit
 import XCTest
 
-class TextConverterTests: XCTestCase {
+class TirePressureMonitoringSystemTests: XCTestCase {
     
     override func setUp() {
         super.setUp()
